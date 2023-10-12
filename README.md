@@ -23,6 +23,6 @@ FRONTEND
 - The component should display the number of followers, following and projects completed.
 - The component should have two buttons: View Profile & Follow
 - The component should be responsive and display correctly on different screen sizes.
-- This landing should look as close to the design as possible.
+- This landing page should look as close to the design as possible.
 
 
