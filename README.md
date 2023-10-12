@@ -1,10 +1,15 @@
-![Profile Card Component](./design/desktop-cover.png)
+
 
 **Challenge Title**
 Profile Card Component
 
+**Challenge Link**
+https://www.frontendpro.dev/frontend-coding-challenges/profile-card-component-8LSC0uk1FvdLPAEUXiaY
+
 **Description**
 This is my solution to the challenge offered by https://www.frontendpro.dev/frontend-coding-challenges.
+
+
 
 **Difficulty Level**
 Beginner
