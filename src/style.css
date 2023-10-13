@@ -24,16 +24,20 @@ body {
 
 .container {
   padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
   display: flex;
   position: relative;
-  width: 1098px;
-  height: 544px;
-  background-color: rgba(255, 255, 255, 0.75);
+  /* width: 1098px;
+  height: 544px; */
+  width: 80%;
+  background-color: rgba(255, 255, 255, 0.5);
   border-radius: 30px;
-  border: solid 3px #FFFFFF;
+  border: solid 10px #FFFFFF;
   overflow: hidden;
   padding: 50px;
 
