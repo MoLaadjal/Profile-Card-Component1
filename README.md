@@ -9,7 +9,8 @@ https://www.frontendpro.dev/frontend-coding-challenges/profile-card-component-8L
 **Description**
 This is my solution to the challenge offered by https://www.frontendpro.dev/frontend-coding-challenges.
 
-Solution : https://profile-card-component1-modevs-projects.vercel.app/
+**Solution**
+https://profile-card-component1-modevs-projects.vercel.app/
 
 
 
