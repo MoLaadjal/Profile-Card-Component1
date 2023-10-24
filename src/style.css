@@ -27,6 +27,8 @@ body {
   justify-content: center;
   align-items: center;
   /* border: dashed red 1px; */
+  flex-direction: column;
+
   width: 80%;
   
 }
@@ -44,7 +46,6 @@ body {
 
 
 
-
 .profile-image-container {
   /* border: dashed green 2px; */
   width: 36%;
@@ -52,6 +53,8 @@ body {
   /* padding-top: 1rem; */
   
 }
+
+
 .profile-image-container img{
   max-width: 100%;
   /* margin-left: 3rem;
@@ -195,3 +198,40 @@ h2 {
 }
 
 
+
+@media screen and (max-width: 425px) {
+  .container {
+    /* border: dashed 2px red; */
+    width: 90%;
+  }
+  .card {
+    /* border: dashed 2px rgb(0, 255, 153); */
+    flex-direction: column;
+    justify-content: space-around;
+    min-height: 80vh;
+    gap:0px;
+  }
+  .content {
+    text-align: center;
+  }
+  .profile-image-container {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .profile-image-container img{
+    max-width: 80% !important;
+  }
+
+  .stats {
+    justify-items: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    gap:2rem;
+  }
+  
+}
