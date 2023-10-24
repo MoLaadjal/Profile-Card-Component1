@@ -208,7 +208,7 @@ h2 {
     /* border: dashed 2px rgb(0, 255, 153); */
     flex-direction: column;
     justify-content: space-around;
-    min-height: 80vh;
+    min-height: 60vh;
     gap:0px;
   }
   .content {
