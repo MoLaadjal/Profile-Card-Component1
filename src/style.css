@@ -227,11 +227,22 @@ h2 {
   }
 
   .stats {
+
     justify-items: center;
     align-items: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    gap:2rem;
+    margin-left: 2rem;
+    /* margin: 2rem 2rem; */
+    gap: 2rem;
   }
+
+  .buttons {
+    /* display: flex; */
+    justify-content: flex-end;
+    
+  }
+
+  
 
 }
