@@ -30,7 +30,7 @@ body {
   flex-direction: column;
 
   width: 80%;
-  
+
 }
 
 .card {
@@ -51,7 +51,7 @@ body {
   width: 36%;
   padding-left: 2rem;
   /* padding-top: 1rem; */
-  
+
 }
 
 
@@ -62,7 +62,7 @@ body {
   /* border:rgb(81, 39, 207) 5px dotted; */
   border-radius: 50%;
   border: 10px solid #E6E6E6;
-  
+
 }
 
 
@@ -82,7 +82,7 @@ body {
 
 .profile-name {
 
-  color: #141843; 
+  color: #141843;
   font-family: 'Merriweather';
   font-size: 2rem;
   font-style: normal;
@@ -113,7 +113,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
 
 .stats-info{
@@ -125,8 +125,8 @@ h2 {
   justify-items: start;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  
-  
+
+
 }
 
 .stats-info {
@@ -137,11 +137,11 @@ h2 {
   padding-right: 25%;
   font-size: .9rem;
   font-weight: 500;
-  
+
 
   /* padding: 10px; */
 }
- 
+
 .stats-info:last-child {
   border: none;
 }
@@ -223,7 +223,7 @@ h2 {
   }
 
   .profile-image-container img{
-    max-width: 80% !important;
+    max-width: 50% !important;
   }
 
   .stats {
@@ -233,5 +233,5 @@ h2 {
     margin-bottom: 2rem;
     gap:2rem;
   }
-  
+
 }
